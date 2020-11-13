@@ -5,7 +5,7 @@ Encontrei em backups antigos, o primeiro programinha que eu desenvolvi na vida, 
 
 Essa calculadora hiper simples, foi o **primeiro** projetinho útil que eu fiz na vida após começar a estudar programação, em 2016 :nerd_face:
 
-Eu trabalhava no almoxarifado de uma oficina na época, onde, para toda peça que eu  comprava para os carros de lá, eu tinha que calcular o preço líquido dela (cada autopeças tinha um desconto diferente), e aplicar a margem de lucro da oficina.
+Eu trabalhava no almoxarifado de uma oficina na época, onde, para toda peça que eu  comprava para os carros de lá, eu tinha que calcular o preço líquido dela (cada autopeças tinha um desconto diferente), aplicar a margem de lucro da oficina, e lançar o novo preço no sistema.
 
 Fiz a calculadora para agilizar este cálculo, que eu tinha que fazer para **toda** peça comprada, e foi meu primeiro projetinho na vida.
 
